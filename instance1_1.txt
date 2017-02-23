@@ -1,0 +1,8 @@
+#instance1_1.txt
+#area [0, max_x] x [0, max_y]
+100 100
+#number of points num_pt
+1
+#coordinates
+61 96
+#end of instance
